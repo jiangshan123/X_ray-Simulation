@@ -1,0 +1,24 @@
+a 3.905E-10
+b 3.905E-10
+c 4.156E-10
+element Pb
+x 0
+y 0
+z 0
+element Ti
+x 0.5
+y 0.5
+z 0.5
+element O
+x 0.5
+y 0.5
+z 0.0
+element O
+x 0.5
+y 0
+z 0.5
+element O
+x 0
+y 0.5
+z 0.5
+

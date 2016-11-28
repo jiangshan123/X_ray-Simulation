@@ -1,0 +1,16 @@
+h_min -0.1
+h_max 0.1
+h_step 0.001
+
+l_min 0.8
+l_max 1.05
+l_step 0.001
+
+lambda 1.5409E-10
+direct 1e10
+background 1
+unitcells 100000
+
+damping 5.98E+4
+film ./Perovskites/PTOup.str
+layers 50

@@ -1,0 +1,21 @@
+a 3.905E-10
+b 3.905E-10
+c 1.95025E-10
+
+element Ti4+
+B 1
+x 0.5
+y 0.5
+z 1
+element O2-
+B 1
+x 0.5
+y 0
+z 1
+element O2-
+B 1
+x 0
+y 0.5
+z 1
+
+
